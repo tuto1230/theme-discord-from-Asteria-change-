@@ -1,3 +1,27 @@
+/* Extra Variables */
+.theme-dark {
+    --background-secondary: transparent;
+    --background-primary: transparent;
+    --background-floating: #1f1f1f;
+    /*////*/
+    --dusk-background-1: #232323;
+    --dusk-background-2: #1e1e1e;
+    --dusk-activate: hsla(0, 0%, 35%, .25);
+    --chat-scrollbar-width: 12px;
+    --scrollbar-thumb: #666;
+    --scrollbar-thumb-hover: #aaa7a7;
+}
+/* Core */
+#app-mount, .typeWindows-1za-n7 {
+    background-color: #1a1a1a;
+}
+.da-layer > .da-flex > .da-wrapper,
+.base-3dtUhz, .da-base .da-sidebar.da-sidebar {
+    border-radius: 0;
+}
+.scrollableContainer-2NUZem {
+    border-radius: 3px;
+}
 /* Big Member Cards */
 .root-SR8cQa {
     border-radius: 2px;
